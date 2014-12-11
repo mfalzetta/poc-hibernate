@@ -3,4 +3,4 @@ hibernate-poc
 
 Hibernate Prove of Concepts.
 
-Teste!
+1.  Get Started.
